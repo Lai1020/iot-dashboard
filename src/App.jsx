@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 
 
-import { FiChevronRight } from "react-icons/fi";
+import { ChevronRight } from "lucide-react";
+
 
 
 import Header from "./components/Header";
