@@ -10,7 +10,7 @@ import Sidebar from "./components/Sidebar";
 import { MENU_STRUCTURE } from "./data/menu";
 
 // Views (flat)
-import CockpitIntegratedView from "./views/cockpit/CockpitIntegratedView";
+import CockpitIntegratedView from "./views/Cockpit/CockpitIntegratedView";
 import AssetOverviewView from "./views/asset/AssetOverviewView";
 import AssetView from "./views/asset/AssetView";
 import AssetInventoryCenterView from "./views/asset/AssetInventoryCenterView";
